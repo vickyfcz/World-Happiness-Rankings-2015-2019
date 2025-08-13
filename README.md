@@ -41,6 +41,10 @@ Commands were written in Python and executed in Jupyter notebooks.
 * pmdarima: For Time-series analysis
 * os: Path tool to read all local files
 
+## Presentation
+
+Available on [Tableau](https://public.tableau.com/app/profile/vicky.czada/viz/6_7WorldHappinessRankings2015-2019/Story1)
+
 ## Limitations:
 
 *   **Data Bias**: The World Happiness Report relies on self-reported data, which can be subjective and culturally influenced.
